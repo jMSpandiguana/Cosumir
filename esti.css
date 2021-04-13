@@ -1,0 +1,28 @@
+.btn{
+    color: brown ;
+    text-align: center;
+}
+.imagen{
+
+    width: 70px;
+    height: 70px;
+    
+    
+}
+h1{
+    color: brown;
+    text-align: center;
+    background-color: cadetblue;
+    
+}
+h3{
+    color: chartreuse;
+    border-color: chocolate;
+    
+}
+
+.three-columns{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
